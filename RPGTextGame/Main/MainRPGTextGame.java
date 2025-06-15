@@ -59,14 +59,14 @@ public class MainRPGTextGame
 		while(true)
 		{
 			System.out.println("********************");
-			System.out.println("현재" + hero.name + "의 이름 : " + hero.name);
-			System.out.println("현재" + hero.name + "의 레벨 : " + hero.level);
-			System.out.println("현재" + hero.name + "의 힘 : " + hero.power);
-			System.out.println("현재" + hero.name + "의 방여력 : " + hero.defense);
-			System.out.println("현재" + hero.name + "의 HP : " + hero.hp);
-			System.out.println("현재" + hero.name + "의 MP : " + hero.mp);
-			System.out.println("현재" + hero.name + "의 경험치 : " + hero.experience);
-			System.out.println("현재" + hero.name + "의 돈 : " + hero.money);
+			System.out.println("현재 " + hero.name + "의 이름 : " + hero.name);
+			System.out.println("현재 " + hero.name + "의 레벨 : " + hero.level);
+			System.out.println("현재 " + hero.name + "의 힘 : " + hero.power);
+			System.out.println("현재 " + hero.name + "의 방여력 : " + hero.defense);
+			System.out.println("현재 " + hero.name + "의 HP : " + hero.hp);
+			System.out.println("현재 " + hero.name + "의 MP : " + hero.mp);
+			System.out.println("현재 " + hero.name + "의 경험치 : " + hero.experience);
+			System.out.println("현재 " + hero.name + "의 돈 : " + hero.money);
 			System.out.println("********************");
 			
 			System.out.println("1. 사냥터");
